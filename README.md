@@ -1,1 +1,1 @@
-# bi-lab
+# Labs for Business Intelligence
